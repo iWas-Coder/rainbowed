@@ -27,3 +27,7 @@ print("This is wrong --> {}I love League of Legends".format(rainbowed.CROSSED))
 
 ### Result
 ![alt text](https://github.com/iwas-coder/rainbowed/blob/main/output_example.png?raw=true)
+
+## Implementing print functions in-module (Coming soon!)
+
+(...)
