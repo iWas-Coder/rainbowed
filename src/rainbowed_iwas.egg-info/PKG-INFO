@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: rainbowed-iwas
+Version: 1.0.0
+Summary: A tiny module to simply import colors in Python's stdout.
+Home-page: https://iwas-coder.github.io/rainbowed
+Author: Wasym Atieh Alonso
+Author-email: wasymatieh01@gmail.com
+License: UNKNOWN
+Project-URL: Repository, https://github.com/iwas-coder/rainbowed
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Rainbowed (by iWas <3)
+
+A tiny module to simply import colors in Python's stdout.
+
+
